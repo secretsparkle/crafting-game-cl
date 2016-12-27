@@ -4,6 +4,8 @@
 ;;;; Created: 12/25/16
 ;;;; Last edited: 12/27/16
 ;;;; TODO: Add more items to craft
+;;;;
+
 (in-package :cl-user)
 
 (defpackage #:crafting-game
